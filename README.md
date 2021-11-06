@@ -4,7 +4,7 @@
 
 Newbie at Data Science/Analyst with high curiosity for new knowledge :grin:
 
-- :computer: I'm currently working as Drivers Experience Support at [Grab](https://www.grab.com/id/), an everday, everthing apps
+- :computer: I'm currently working as Drivers Experience Support at [Grab](https://www.grab.com/id/), an everyday, everything apps
 - :books: I'm still learning about Data Science
 - 🤹🏼 I'm enthusiastic about sport, go green, technology, business and economy
 - :basketball_woman: Also I'm a Basketball Athlete
